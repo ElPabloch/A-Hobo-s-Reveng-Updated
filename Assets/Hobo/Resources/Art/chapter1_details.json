@@ -1,0 +1,35 @@
+{ "frames": [
+   {
+    "filename": "chapter1_details.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 128 },
+    "sourceSize": { "w": 256, "h": 128 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.18.6-x64",
+  "image": "chapter1_details.png",
+  "format": "RGBA8888",
+  "size": { "w": 256, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "utility_sink", "keys": [{ "frame": 0, "bounds": {"x": 192, "y": 64, "w": 64, "h": 64 }, "pivot": {"x": 32, "y": 60 } }] },
+   { "name": "warning_sign", "keys": [{ "frame": 0, "bounds": {"x": 128, "y": 64, "w": 64, "h": 64 }, "pivot": {"x": 32, "y": 60 } }] },
+   { "name": "improvised_bed", "keys": [{ "frame": 0, "bounds": {"x": 64, "y": 64, "w": 64, "h": 64 }, "pivot": {"x": 32, "y": 60 } }] },
+   { "name": "refuse_pile", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 64, "w": 64, "h": 64 }, "pivot": {"x": 32, "y": 60 } }] },
+   { "name": "electrical_cabinet", "keys": [{ "frame": 0, "bounds": {"x": 192, "y": 0, "w": 64, "h": 64 }, "pivot": {"x": 32, "y": 60 } }] },
+   { "name": "pipe_valve", "keys": [{ "frame": 0, "bounds": {"x": 128, "y": 0, "w": 64, "h": 64 }, "pivot": {"x": 32, "y": 60 } }] },
+   { "name": "broken_stairs", "keys": [{ "frame": 0, "bounds": {"x": 64, "y": 0, "w": 64, "h": 64 }, "pivot": {"x": 32, "y": 60 } }] },
+   { "name": "sewer_gate", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 64, "h": 64 }, "pivot": {"x": 32, "y": 60 } }] }
+  ]
+ }
+}
